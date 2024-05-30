@@ -1,0 +1,42 @@
+C:\Users\anocha\Desktop\Template 4 header\mini_projeck\camera_show\bin\Debug\camera_show.exe.config
+C:\Users\anocha\Desktop\Template 4 header\mini_projeck\camera_show\bin\Debug\camera_show.exe
+C:\Users\anocha\Desktop\Template 4 header\mini_projeck\camera_show\bin\Debug\camera_show.pdb
+C:\Users\anocha\Desktop\Template 4 header\mini_projeck\camera_show\bin\Debug\ZedGraph.dll
+C:\Users\anocha\Desktop\Template 4 header\mini_projeck\camera_show\obj\Debug\camera_show.csprojResolveAssemblyReference.cache
+C:\Users\anocha\Desktop\Template 4 header\mini_projeck\camera_show\obj\Debug\camera_show.Form1.resources
+C:\Users\anocha\Desktop\Template 4 header\mini_projeck\camera_show\obj\Debug\camera_show.Properties.Resources.resources
+C:\Users\anocha\Desktop\Template 4 header\mini_projeck\camera_show\obj\Debug\camera_show.csproj.GenerateResource.Cache
+C:\Users\anocha\Desktop\Template 4 header\mini_projeck\camera_show\obj\Debug\camera_show.exe
+C:\Users\anocha\Desktop\Template 4 header\mini_projeck\camera_show\obj\Debug\camera_show.pdb
+C:\Users\anocha\Desktop\Template 4 header\mini_projeck\camera_show\bin\Debug\zxing.dll
+C:\Users\anocha\Desktop\Template 4 header\mini_projeck\camera_show\bin\Debug\zxing.presentation.dll
+C:\Users\anocha\Desktop\Template 4 header\mini_projeck\camera_show\bin\Debug\Emgu.CV.World.dll
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show\bin\Debug\camera_show.exe.config
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show\obj\Debug\camera_show.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show\obj\Debug\camera_show.pdb
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show\bin\Debug\camera_show.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show\bin\Debug\camera_show.pdb
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show\obj\Debug\camera_show.csprojResolveAssemblyReference.cache
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show\obj\Debug\camera_show.Form1.resources
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show\obj\Debug\camera_show.Properties.Resources.resources
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show\obj\Debug\camera_show.csproj.GenerateResource.Cache
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show - Copy\bin\Debug\camera_show.exe.config
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show - Copy\obj\Debug\camera_show.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show - Copy\obj\Debug\camera_show.pdb
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show - Copy\bin\Debug\camera_show.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show - Copy\bin\Debug\camera_show.pdb
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show - Copy\obj\Debug\camera_show.csprojResolveAssemblyReference.cache
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show - Copy\obj\Debug\camera_show.Form1.resources
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show - Copy\obj\Debug\camera_show.Properties.Resources.resources
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show - Copy\obj\Debug\camera_show.csproj.GenerateResource.Cache
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show_wattana\bin\Debug\camera_show.exe.config
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show_wattana\bin\Debug\camera_show.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show_wattana\bin\Debug\camera_show.pdb
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show_wattana\obj\Debug\camera_show.Form1.resources
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show_wattana\obj\Debug\camera_show.Properties.Resources.resources
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show_wattana\obj\Debug\camera_show.csproj.GenerateResource.Cache
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show_wattana\obj\Debug\camera_show.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\camera_show_wattana\obj\Debug\camera_show.pdb
+D:\SvnServer\Projects C#\mini_projeck_template\camera_show_wattana\bin\Debug\camera_show.exe.config
+D:\SvnServer\Projects C#\mini_projeck_template\camera_show_wattana\obj\Debug\camera_show.exe
+D:\SvnServer\Projects C#\mini_projeck_template\camera_show_wattana\obj\Debug\camera_show.pdb
